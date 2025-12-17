@@ -33,3 +33,5 @@ The cards below are dynamically generated to show your GitHub activity. They wil
 [![](https://visitcount.itsvg.in/api?id=gemeking&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Add this line where you want the "cross" chart to appear -->
+![Profile Details](profile-summary-card-output/profile-details.svg)
